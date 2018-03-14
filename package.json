@@ -1,7 +1,7 @@
 {
   "name": "ignite-onesignal",
   "description": "Ignite plugin that adds react-native-onesignal support.",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "license": "MIT",
   "author": {
     "name": "Donald Silveira",

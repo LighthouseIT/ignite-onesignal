@@ -13,7 +13,7 @@
     "test": "ava",
     "watch": "ava --watch",
     "coverage": "nyc ava",
-    "shipit": "np"
+    "shipit": "npm version && npm publish && git push --tags"
   },
   "standard": {
     "parser": "babel-eslint"
